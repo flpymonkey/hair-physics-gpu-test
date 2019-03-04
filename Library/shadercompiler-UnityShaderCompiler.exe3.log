@@ -1,0 +1,19 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 1 plat 4 at shader.compute(45): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(47): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(49): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(86): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(88): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(90): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(117): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(119): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(155): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(157): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(165): integer divides may be much slower, try using uints if possible.
+  error: 1 plat 4 at shader.compute(194): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(196): signed/unsigned mismatch, unsigned assumed
+  error: 1 plat 4 at shader.compute(201): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=7873 outsize=1757 ok=1
+Cmd: initializeCompiler
